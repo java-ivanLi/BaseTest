@@ -15,4 +15,11 @@ while(true){
 
 }
 
+int i = 20;
+if(i <21){
+  System.out.prinln("垃圾");
+}else{
+  System.out.println("嘤嘤嘤");
+}
+
 
