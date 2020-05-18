@@ -8,3 +8,11 @@ public class HelloWorld{
 
 
 hello world!
+
+
+while(true){
+	System.out.pringln("该死产品经理");
+
+}
+
+
